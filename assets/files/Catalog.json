@@ -1,0 +1,102 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Monkey D. Luffy",
+            "desc": "KING OF THE PIRATES",
+            "price": 999,
+            "color": "#ed1111",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRAfZS0hj1wsaNCQKmd4r1bIiXjCnk_ScGg&usqp=CAU"
+        },
+
+        {
+            "id": 2,
+            "name": "Roronoa Zoro",
+            "desc": "KING OF Hell",
+            "price": 899,
+            "color": "#55cc2d",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWTRWNLr5Qe4_ii_6Tkt_ZFcKXqid89xQn0w&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "name": "Vinsmoke Sanji",
+            "desc": "Black Foot",
+            "price": 899,
+            "color": "#e6e212",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC2CSdTvgcvZhDJxe7IR0lAMqZnleSRvQdsg&usqp=CAU"
+        },
+        {
+            "id":4,
+            "name": "Nami",
+            "desc": "Cat Burglar Nami",
+            "price": 799,
+            "color": "#f58122",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BB0REp3ZZilCiAv31z62NA-6ByaLrCDzvQ&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "name": "Nico Robin",
+            "desc": "Devil Child",
+            "price": 799,
+            "color": "#9915e6",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4SfS7r6Pz3ysFhj12Y6e67UkuGoDe435gQ&usqp=CAU"
+            
+        },
+        {
+            "id": 6,
+            "name": "Usopp",
+            "desc": "God Usopp",
+            "price": 799,
+            "color": "#f58122",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRckqg-EN9o-n-h3cyOg4QM0D1OiZbz48jXOA&usqp=CAU"
+            
+        },
+        {
+            "id": 7,
+            "name": "Tony Tony Chopper",
+            "desc": "Cotton Candy Lover",
+            "price": 699,
+            "color": "#eb7ce1",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQKaRdqS3-L_aeYcSgVt3Hfh9ToEfFiKn8mQ&usqp=CAU"
+            
+        },
+        {
+            "id": 8,
+            "name": "Franky",
+            "desc": "Cyborg",
+            "price": 799,
+            "color": "#24d4d4",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgWo6aEemu6lu9viTWRSPVuDEpr3eXM3veQ&usqp=CAU"
+            
+        },
+        {
+            "id": 9,
+            "name": "Brook",
+            "desc": "Soul King",
+            "price": 799,
+            "color": "#140013",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlznQ56penyC03P7t9Hyts_jpatTk0Eb3kqw&usqp=CAU"
+            
+        },
+        
+        {
+            "id": 10,
+            "name": "Jinbe",
+            "desc": "First Son of the Sea",
+            "price": 799,
+            "color": "#50e6fa",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrJLB8me_R8QO67NhgrCtxIJeprzRURQ2QjQ&usqp=CAU"
+            
+        },
+        {
+            "id": 11,
+            "name": "Trafalgar D. Law",
+            "desc": "Tralfagar Law joins Figuarts ZERO, ferociously mid-attack in the Battle of Onigashima from the Wano Country Arc! This highly detailed figure is sure to stand out in any collection!\n\nProduct Features:\n9.40 inches (23.88cm)\nMade of ABS and PVC\nFrom the One Piece anime series\n Highly detailed\nNon-articulated\n\nBox Contents\nTralfagar Law figure",
+            
+            "price": 999,
+            "color": "#ed1111",
+            "image":"https://nerdarena.in/cdn/shop/files/3664ce99-205c-4631-a89d-54d3ebc9fe71.jpg?v=1687502391&width=1920"
+        }
+
+    ]
+}

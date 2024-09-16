@@ -1,0 +1,41 @@
+{
+    "samples":[
+        {
+            "id": 1,
+            "name": "Kamado Tanjiro",
+            "desc": "Sun Breathing",
+            "price": 999,
+            "color": "#ed1111",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkbKi6to6TjN0JJ7-Z02EbutTY0eRMqZyKxg&usqp=CAU"
+            
+        },
+        {
+            "id": 2,
+            "name": "Kamado Nezuko",
+            "desc": "Demon ",
+            "price": 999,
+            "color": "#ed1111",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeB9kSfGAZxAhiRKkXXKlSi-HUWHI3plwbiQ&usqp=CAU"
+            
+        },
+        {
+            "id": 2,
+            "name": "Bandai Figuarts Zero Demon Slayer: Kimetsu no Yaiba - Zenitsu Agatsuma (Thunder Flash Ver.)",
+            "desc": "Description:-\nZenitsu Agatsuma from Demon Slayer: Kimetsu no Yaibagets a new Figuarts ZERO figure from Bandai, caught at the moment he unleashes his Thunder Flash attack! Clear and partially painted effect parts reproduce the power of his vigorous attack, contrasting with his peaceful expression. This figure is amazing all the way around with skillful sculpting accenting his dynamic pose!\n \nProduct Features\n5.9 inches (15cm)\nMade of ABS and PVC\n Based on the Demon Slayer: Kimetsu no Yaiba anime series\nPart of the FiguartsZERO lineup\nHighly detailed\nBox Contents\nZenitsu Agatsuma figure ",
+            "price": 999,
+            "color": "Zenitsu",
+            "image":"https://nerdarena.in/cdn/shop/files/08edd279-ca06-4a07-8a19-39c087e4d8e9.jpg?v=1682543203&width=960"
+            
+        },
+        {
+            "id": 3,
+            "name": "Kyojuro Rengoku",
+            "desc": "Flame Hashira",
+            "price": 999,
+            "color": "#ed1111",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqR7EqqcvkfQaBYs2V5fqKOBgDgW4nUE_M9A&usqp=CAU"
+            
+        }
+
+   ]
+}

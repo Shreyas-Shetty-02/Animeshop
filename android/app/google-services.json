@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "604894720617",
+    "project_id": "flutter-52d3d",
+    "storage_bucket": "flutter-52d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604894720617:android:61e58fe97256e71e7368f8",
+        "android_client_info": {
+          "package_name": "com.example.animeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604894720617-l9eevg0rk5mt9tlm6b49vehdi0rqmrcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgSO6JdangUXzpNt0MTWCPn39r7jXrCGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604894720617-l9eevg0rk5mt9tlm6b49vehdi0rqmrcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604894720617-02o7etfp3b4rg97j2fua7oqp1ib9v7m6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.animeshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
