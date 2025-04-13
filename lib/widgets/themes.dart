@@ -8,15 +8,15 @@ class MyTheme {
       fontFamily: GoogleFonts.poppins().fontFamily,
       cardColor: Colors.white,
       canvasColor: creamColor,
-      backgroundColor: redishColor,
+      dialogBackgroundColor: redishColor,
       focusColor: redishColor,
       dividerColor: Colors.white,
       appBarTheme: AppBarTheme(
         color: Colors.white,
         elevation: 0.0,
         iconTheme: IconThemeData(color: Colors.red),
-        toolbarTextStyle: Theme.of(context).textTheme.bodyText2,
-        titleTextStyle: Theme.of(context).textTheme.headline6,
+        toolbarTextStyle: Theme.of(context).textTheme.bodyMedium,
+        titleTextStyle: Theme.of(context).textTheme.titleLarge,
       ));
 
   static ThemeData darkTheme(BuildContext context) => ThemeData(
@@ -24,15 +24,15 @@ class MyTheme {
       fontFamily: GoogleFonts.poppins().fontFamily,
       cardColor: Colors.black,
       canvasColor: darkredishColor,
-      backgroundColor: darkredishColor,
+      dialogBackgroundColor: darkredishColor,
       focusColor: Colors.white,
       dividerColor: Colors.white,
       appBarTheme: AppBarTheme(
         color: Colors.white,
         elevation: 0.0,
         iconTheme: IconThemeData(color: Color.fromARGB(255, 113, 203, 245)),
-        toolbarTextStyle: Theme.of(context).textTheme.bodyText2,
-        titleTextStyle: Theme.of(context).textTheme.headline6,
+        toolbarTextStyle: Theme.of(context).textTheme.bodyMedium,
+        titleTextStyle: Theme.of(context).textTheme.titleLarge,
       ));
 //colors
   static Color creamColor = Color(0xfff5f5f5);

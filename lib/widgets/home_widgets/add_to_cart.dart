@@ -23,7 +23,7 @@ class AddtoCart extends StatelessWidget {
         },
         style: ButtonStyle(
             backgroundColor:
-                MaterialStateProperty.all(context.theme.backgroundColor),
+                MaterialStateProperty.all(context.theme.dialogBackgroundColor),
             shape: MaterialStateProperty.all(StadiumBorder())),
         child:
             isInCart ? Icon(Icons.done) : Icon(CupertinoIcons.cart_badge_plus));

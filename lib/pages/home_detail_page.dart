@@ -28,7 +28,7 @@ class HomeDetailPage extends StatelessWidget {
             "\$${catalog.price}"
                 .text
                 .xl4
-                .color(context.theme.backgroundColor)
+                .color(context.theme.dialogBackgroundColor)
                 .make(),
             AddtoCart(
               catalog: catalog,
